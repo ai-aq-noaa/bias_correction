@@ -1,1 +1,1 @@
-# bbias_correction
+# Repository for Bias Correction related code.
